@@ -6,3 +6,5 @@ My stupid boss still prefers SVN.
 github!
 Creating a new branch is quick AND simple.
 ???
+git stash test!
+stash1
